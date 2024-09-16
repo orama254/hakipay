@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# HAKI PAY
 
-## Getting Started
+## Description
+Hakipay leverages on the power of blockchain technology to provide a secure, transparent and efficient way for social justice organizations to receive donations from Non Governmental organizations and well-wishers. The platform is built on the tbDEX protocal which allows for fast, secure and convenient cross-border transactions. 
 
-First, run the development server:
+## Features
+- Secure and transparent donation platform
+- Fast and efficient cross-border transactions
+- Easy to use and navigate
+- Real-time transaction tracking
+- Secure and transparent transaction history
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### How will this project be profitable?
+- premium features for organizations that want analytics on donor trends and donor beneficiary matching
+- transaction fees for fund expedition
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### How will users get the best offers from the multiple PFis on the platform?
+- implementing a decision engine that compares offers from various PFIs and suggests the best one based on user preferences (e.g., lower fees, quicker transfer times).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### How will you manage decentralized identifiers (DIDs) and verifiable credentials securely?
+- Leverage the build in features of the tbDEX SDK to manage DIDs and verifiable credentials securely.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### How will you track customer satisfaction and optimize their interaction with PFIs?
+- Implement a feedback system that allows users to rate their experience with PFIs and provide suggestions for improvement.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## UX Design
+**[WIP]**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
