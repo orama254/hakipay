@@ -11,8 +11,8 @@ Hakipay leverages on the power of blockchain technology to provide a secure, tra
 - Secure and transparent transaction history
 
 ### How will this project be profitable?
-- premium features for organizations that want analytics on donor trends and donor beneficiary matching
-- transaction fees for fund expedition
+- premium features for organizations that want analytics on donor trends and donor-beneficiary matching
+- expedition fees for fund expedition
 
 ### How will users get the best offers from the multiple PFis on the platform?
 - implementing a decision engine that compares offers from various PFIs and suggests the best one based on user preferences (e.g., lower fees, quicker transfer times).
